@@ -1,3 +1,145 @@
 <resources>
     <string name="app_name">My Submission App</string>
+
+    <string name="anime_name_title">title</string>
+    <string name="genre_title">genre</string>
+    <string name="studio_title">studio</string>
+    <string name="aired_title">aired</string>
+    <string name="rating_title">rating/score</string>
+    <string name="synopsis_title">synopsis</string>
+    <string name="self_review_title">self review</string>
+    <string name="recommend_suggest_title">Would I recommend?:</string>
+    <string name="my_rating_title">self rating:</string>
+
+    <string-array name="anime_name_data">
+        <item>Princess Principal</item>
+        <item>Girls Und Panzer</item>
+        <item>Kantai Collection</item>
+        <item>High School Fleet</item>
+        <item>86 eighty six</item>
+        <item>Henjin no Salad Bowl</item>
+        <item>Nihon e Youkoso Elf-san</item>
+        <item>Giji Harem</item>
+        <item>Zatsu Tabi: That\'s Journey</item>
+        <item>Death March kara Hajimaru Isekai Kyousoukyoku</item>
+    </string-array>
+
+    <string-array name="anime_poster_image">
+        <item>https://cdn.myanimelist.net/images/anime/7/86768.jpg</item>
+        <item>https://cdn.myanimelist.net/images/anime/9/40969.jpg</item>
+        <item>https://cdn.myanimelist.net/images/anime/4/73954.jpg</item>
+        <item>https://cdn.myanimelist.net/images/anime/9/79670.jpg</item>
+        <item>https://cdn.myanimelist.net/images/anime/1987/117507.jpg</item>
+        <item>https://cdn.myanimelist.net/images/anime/1861/141482.jpg</item>
+        <item>https://cdn.myanimelist.net/images/anime/1650/146113.jpg</item>
+        <item>https://cdn.myanimelist.net/images/anime/1607/143547.jpg</item>
+        <item>https://cdn.myanimelist.net/images/anime/1944/148218.jpg</item>
+        <item>https://cdn.myanimelist.net/images/anime/4/88911.jpg</item>
+    </string-array>
+
+    <string-array name="anime_genre_data">
+        <item>Action, Mystery, Historical</item>
+        <item>Military, School</item>
+        <item>Action, Sci-Fi, Military</item>
+        <item>Action, Military, School</item>
+        <item>Drama, Sci-Fi, Mecha, Military</item>
+        <item>Comedy, Supernatural</item>
+        <item>Comedy, Fantasy</item>
+        <item>Comedy, Romance, School</item>
+        <item>Adventure, Slice of Life</item>
+        <item>Adventure, Fantasy, Harem, Isekai</item>
+    </string-array>
+
+    <string-array name="anime_studio_data">
+        <item>Actas, Studio 3Hz</item>
+        <item>Actas</item>
+        <item>Diomedéa</item>
+        <item>Production IMS</item>
+        <item>A-1 Pictures</item>
+        <item>SynergySP, Studio Comet</item>
+        <item>Zero-G</item>
+        <item>Nomad</item>
+        <item>Makaria</item>
+        <item>SILVER LINK., Connect</item>
+    </string-array>
+
+    <string-array name="anime_aired_data">
+        <item>Jul 9, 2017 to Sep 24, 2017</item>
+        <item>Oct 9, 2012 to Mar 25, 2013</item>
+        <item>Jan 8, 2015 to Mar 26, 2015</item>
+        <item>Apr 10, 2016 to Jun 26, 2016</item>
+        <item>Apr 11, 2021 to Jun 20, 2021</item>
+        <item>Apr 5, 2024 to Jun 21, 2024</item>
+        <item>Jan 10, 2025 to Mar 28, 2025</item>
+        <item>Jul 5, 2024 to Sep 20, 2024</item>
+        <item>Apr 7, 2025 to Jun 23, 2025</item>
+        <item>Jan 11, 2018 to Mar 29, 2018</item>
+    </string-array>
+
+    <string-array name="anime_rating_data">
+        <item>7.67</item>
+        <item>7.53</item>
+        <item>6.81</item>
+        <item>7.30</item>
+        <item>8.34</item>
+        <item>7.27</item>
+        <item>7.29</item>
+        <item>7.83</item>
+        <item>6.92</item>
+        <item>6.43</item>
+    </string-array>
+
+    <string-array name="anime_synopsis_data">
+        <item>In the early 20th century, the discovery of the substance Cavorite allowed the production of advanced military technology and steered the country toward conflict. London is now divided by a wall, and the Kingdom and the Commonwealth of Albion battle a silent war where espionage is the only weapon that can destabilize the enemy. A group of girls from the prestigious Queen\'s Mayfaire school work as undercover spies for the Commonwealth.\nLed by Dorothy, an experienced driver with a striking personality, their group includes the talents of Ange le Carré, a cold-blooded liar and expert sharpshooter; Chise, a proficient samurai; and Beatrice, a voice-mimicking specialist. They use their unique individual skills for the Commonwealth to survive in a dark world filled with conspiracy, mystery, and infiltration. In the shadow of the war, they have only one goal in mind: completing their mission.</item>
+        <item>"Senshadou" is a traditional sport using World War II era tanks in elimination-based matches. Widely practiced by women and girls alike, it\'s advertised as a form of art geared towards making ladies more prominent in culture and appealing to men. Becoming a worldwide phenomenon over time, the influence of senshadou leads to the creation of a world championship which will soon be held in Japan.\nMiho Nishizumi, who comes from a lineage of well-respected senshadou specialists, is at odds with the sport after a traumatic event led to her retirement and eventually a rift to form between her and her family. To steer clear of the practice as much as possible, she transfers to Ooarai Girls Academy where the senshadou program has been abolished. However, with the news of the upcoming championships, the school revives their tankery program, and Miho is pushed into joining.\nNow, with the aid of some new friends, she must overcome her past and once again take command of a squadron of tanks in an effort to save her school from closure, all while proving to her family that the Nishizumi-style of senshadou is not solely about victory.</item>
+        <item>With the seas under constant threat from the hostile "Abyssal Fleet," a specialized naval base is established to counter them. Rather than standard naval weaponry, however, the base is armed with "Kanmusu"—girls who harbor the spirits of Japanese warships—possessing the ability to don weaponized gear that allows them to harness the powerful souls within themselves. Fubuki, a young Destroyer-type Kanmusu, joins the base as a new recruit; unfortunately for her, despite her inexperience and timid nature, she is assigned to the famous Third Torpedo Squadron and quickly thrust into the heat of battle. When she is rescued from near annihilation, the rookie warship resolves to become as strong as the one who saved her.</item>
+        <item>A hundred years after catastrophic shifts in tectonic plates caused most of its area to submerge, Japan now thrives as a maritime nation. High functioning cities line the coasts of Japan, and well developed sea routes are defended by specialized naval ships. The marine industry is flourishing, and young girls are eager to join the Blue Mermaids—highly skilled women who devote their lives to protecting the seas.\nAfter some time apart, childhood friends Akeno Misaki and Moeka China are reunited at Yokosuka Girls\' Marine High School. Here they are joined by others who share their dream of becoming Blue Mermaids. Soon, training exercises commence, with Akeno and Moeka being put in charge of their own ships and crew. Everything is progressing smoothly for Akeno as she settles into her role as captain and builds camaraderie between her fellow crew members aboard the Harekaze, a destroyer ship. However, unexpected engine and navigation failures soon leave their ship stranded and the crew in danger.\nHigh School Fleet follows the Harekaze's valiant crew as they navigate treacherous waters and other obstacles on their quest to become fully fledged Blue Mermaids.</item>
+        <item>According to the Republic of San Magnolia, their ongoing war against the Giadian Empire has no casualties—however, that is mere propaganda. While the silver-haired Alba of the Republic\'s eighty-five sectors live safely behind protective walls, those of different appearances are interned in a secret eighty-sixth faction. Known within the military as the Eighty-Six, they are forced to fight against the Empire\'s autonomous Legion under the command of the Republican "Handlers.\nVladilena Milizé is assigned to the Spearhead squadron to replace their previous Handler. Shunned by her peers for being a fellow Eighty-Six supporter, she continues to fight against their inhumane discrimination. Shinei Nouzen is the captain of the Spearhead squadron. Infamous for being the sole survivor of every squadron he's been in, he insists on shouldering the names and wishes of his fallen comrades. When the fates of these young souls from two different worlds collide, will it ignite the spark that lights their path to salvation, or will they burn themselves in the flames of despair?</item>
+        <item>Private detective Sousuke Kaburaya is simply trying to make ends meet when Sara da Odin, an imperial princess from another world, falls through a portal right on top of him. Unaware that she is an anomaly in a magicless world, Sara uses powerful spells in public, causing a commotion and forcing Sousuke to take her back home with him. With the help of the internet, manga, and modern Japanese conveniences, Sara grows accustomed to living in Japan and becomes Sousuke\'s assistant in the process.\nMeanwhile, Livia de Udis, Sara\'s personal knight, also comes through the portal but lands at a different location. There, she meets a homeless man who readily accepts her unique background and odd tendencies. Despite her situation, Livia quickly adapts and settles into the homeless lifestyle, a far cry from the noble position she used to hold.\nWhile Sara and Livia may be living different lives, their positive and ambitious attitudes leave a lasting impact on the people around them as they experience both the good and bad of Japan.</item>
+        <item>Since childhood, Kazuhiro Kitase has been able to dream of a different world. He can return to reality by falling asleep or dying, and he can pick up where he left off by sleeping again. For years, he has had many adventures alongside Mariabelle, a beautiful elf who works for the Sorcery Guild.\nOn one of their escapades, they come across the lair of a dragon taking care of its eggs. They inadvertently wake the slumbering beast, who promptly reduces them to ashes. For Kazuhiro, it is merely a temporary setback, as he can simply go back. However, he is shocked to find Mariabelle herself safe and sound asleep next to him.\nKazuhiro realizes that his dream world is an alternate reality altogether. In the meantime, he makes the most of this bizarre circumstance, introducing Mariabelle to the sights and wonders of Japan. Now, with their time together spanning two worlds, their real adventures have just begun!</item>
+        <item>Eiji Kitahama has a dream shared by many high school guys: to be popular and have a harem of girls fawning over him. Luckily for him, his new junior in the drama club, Rin Nanakura, has decided to help him realize this wish. Using her impressive acting abilities, she takes on many personalities, from teasing to calm and collected, to play characters in Eiji\'s simulated harem.\nAs her connection with Eiji deepens, Rin expands her repertoire, quickly swapping between characters while enjoying high school life together in the club. Through her acting, the real Rin Nanakura tries her best to win Eiji's heart.</item>
+
+        <item>Chika Suzugamori, an 18-year-old newcomer manga artist, has just had three of her drafts rejected in a single day. Her editor suggests incorporating her interests into her work, but Chika is an indoor person who only thinks about manga day and night. At a loss, she feels a sudden desire to get away from everything and go on a journey somewhere.\nDue to the results of an online poll that she posted on a whim, Chika hops on a train and heads north from Tokyo on an impromptu solo trip. When she ends up at the top of Mount Haguro in Aizu-Wakamatsu, she realizes she feels refreshed and more motivated than before. Even if her projects get turned down again in the future, Chika plans to journey around Japan with friends old and new.</item>
+        <item>Ichirou Suzuki, a programmer nearing his thirties, is drowning in work. Worn out, he eventually has a chance to catch up on sleep, only to wake up and discover himself in a fantasy RPG world, which is mashed together from the games he was debugging in reality. In this new place, he realizes that not only has his appearance changed to a younger version of himself, but his name has also changed to Satou, a nickname he used while running beta tests on games.\nHowever, before Satou can fully grasp his situation, an army of lizardmen launch an assault on him. Forced to cast a powerful spell in retaliation, Satou wipes them out completely and his level is boosted to 310, effectively maximizing his stats. Now, as a high-leveled adventurer armed with a plethora of skills and no way to return to reality, Satou sets out to explore this magical new world.</item>
+    </string-array>
+
+    <string-array name="anime_self_review_data">
+        <item>this anime has very good visual and music ngl, as for the visual &amp; style its steampunk London setting + the slick character designs make the world feel really cool and distinctive. And for the music part, its Great soundtrack, strong mood-setting, adds a lot to the suspense and spy vibe (thanks for Yuki Kajiura). And of course the story was good too because some part was deep for me. Even though you gonna think its kinda confused when first watch it because the episode was messy for the story sequence, to avoid this you should check it on Google. If you’re into spy thrillers with a twist, cool aesthetics, and don’t mind if the story gets a bit messy here &amp; there — Princess Principal is a solid pick.</item>
+        <item>The premise is wild yet fun, cute high-school girls driving WWII-era tanks in sport competitions. It’s absurd but the series owns it. Also Tank action sequences are surprisingly detailed and polished. The studio gives enough care to the machines, tactics, and visuals that it feels legit for what it is. beside senshadou(tank sport), It’s light-hearted, fun, has comedy, drama, and action in just the right mix. Great for when you want something entertaining, not too heavy. Even though its kinda absurd like i said before cause the senshadou participant just female lol. If you’re up for something fun, unique, and stylish, Girls und Panzer is a solid pick. It mixes school life, sports anime vibes, and military gear in a surprisingly convincing way. </item>
+        <item>The anime concept was Unique, Warships turned into cute fighting girls. The mash-up of military themes + moe character design gives a distinct flavor. Even if you’re not super deep into naval history, the character designs and personalities make it fun and accessible. As for the story im gonna say was mid cause some part was not fully explained like "how did the girls come to possess the spirit of naval warships?”. well maybe because its start from game adaptation.</item>
+        <item>The anime concept was same like Girls Und Panzer but with different stuff, this was using ship. The ship/tech design and setting get decent care — for the genre, the naval scenes and the training ship stuff look fun. Themes of teamwork, trust, leadership really shine when the crew has to band together. Also Its entertaining,with action, stakes, plus slice-of-life moments give some variety. But unfortunately fot the pace &amp; narrative: The show tries to do a lot in its 12 episodes (training, betrayal, chase, conspiracy) so some plot threads may feel rushed.</item>
+        <item>Anime themes &amp; depth was show handles heavy stuff — war, systemic racism, dehumanization — in a way that many similar mecha-oriented anime don’t bother with. Many viewers felt the emotional weight. The art direction, soundtrack, and cinematography get solid praise — especially the way the tone and visuals shift between the “safe inside wall” world and the frontline world of the 86s. If you’re into serious mecha + war drama + a heavy emotional ride, then 86-Eighty Six is definitely worth your time. It’s not light or goofy — it asks you to feel, to think, and to reflect.</item>
+        <item>The anime has fun concept, a reverse‐isekai (characters from another world come to Earth rather than the usual vice versa) with a detective + princess + knight mix. That gives some fresh flavour. The characters are quirky and there’s room for comedic moments, Sara’s adaptation to modern life, Livia’s homelessness but “enjoying” odd freedom, plus the weird clients of Sousuke. It’s light, relatively easy to watch, and offers a mix of fantasy + slice of life + comedy which is nice if you want something casual with a twist. I enjoy t overall but i really don\'t like Livia part cause she's too absurd till i think she have no brain lol (a little bit personal :v). If you’re looking for something fun, quirky, and different — Henjin no Salad Bowl is a good choice. It’s not ultra-serious, but it brings enjoyment with its mixture of fantasy, detective oddities, and slice of life.</item>
+        <item>This anime has reverse-isekai too but with different way than anime before, fantasy character (Marie) comes into the real world via sleep transitions. That gives a fresh flavour. The interplay between everyday Japanese life (food, culture, arcades, onsens) and fantasy adventure has charm. Light, comfy and visually pleasant: if you want something mellow yet sweet, this fits the bill. If you’re looking for an anime that is light-hearted, has cute fantasy meets modern Japan dynamics, and doesn’t take itself super seriously, then Welcome to Japan, Ms. Elf! is a good pick.</item>
+        <item>Fresh take on the “harem” concept: Instead of many girls genuinely vying for the guy, here one girl (Rin) plays many roles for Eiji, which creates a fun meta-twist on the genre. Good balance of romance, comedy, and slice-of-life: The drama club setting and high-school life bring familiar comfort, while the role-playing element adds novelty. I really enjoy watching this instead another romance that have many drama. If you’re into romantic comedies with a twist — especially ones that play with familiar tropes and do so in a light-hearted way — Giji Harem is a good pick. It’s fun, charming, and doesn’t overstay its welcome (12 episodes is a nice length).</item>
+        <item>The travel &amp; “slice of life” vibe is strong and pretty relaxing on this anime. The scenery, the attention to detail in locations, and the feeling of discovery (especially of rural Japan) are a highlight. For example, episode 2 covers Matsushima with oysters, local culture etc. The protagonist’s journey of needing inspiration and stepping out of her comfort zone gives the show a relatable core, especially for creatives or anyone feeling stuck. If you’re in the mood for an anime that is calm, visually pleasing, and gives you a sense of “let’s travel and explore” rather than “let’s fight and conquer” — Zatsu Tabi is a very good pick. It’s ideal for when you want to unwind, appreciate subtle character growth, and see some lesser-known corners of Japan.</item>
+        <item>The isekai plus game mechanics angle is fun, the “menu screen” in Satō’s mind, the instant OP power-jump, and the world-exploring vibe give it a light-adventure feel. The relaxed tone: It’s not non-stop high stakes. There’s a lot of “living in another world” stuff, exploration, food, travel, companions. Good if you want something more chill rather than constant drama (this is that makes me like this series, i recommend you to read the light novel too). World-building potential: Some viewers like how the world is broad, with varied locations, cultures and monster types. If you’re into an isekai where the main focus is exploration, relaxation, travel, and over-powered fun rather than heavy conflict or deep drama, then Death March to the Parallel World Rhapsody is definitely watchable. But if you expect tight storytelling, deep character arcs, real peril or a protagonist who really earns everything step by step, this might not satisfy you. </item>
+    </string-array>
+
+    <string-array name="anime_recommend_suggest_data">
+        <item>Yeah—definitely. Especially if you want something a bit off the usual anime path.</item>
+        <item>Yeah-definitely.especially if you like mecha/military-gear but with a lighter touch.</item>
+        <item>Yeah. If you dont mind for under explained (not detail) part</item>
+        <item>Yes — especially if you like shows that mix action + school + unconventional settings.</item>
+        <item>Yeah, 100%. Just go in knowing it’s not “just robots fighting” — it’s about people, politics, and pain.</item>
+        <item>Yes — especially if you like reverse isekai shows and you don’t mind a bit of “weirdness” in your comedy/fantasy mix.</item>
+        <item>Yeah, It’s comfy, fun, and has an appealing elf-waifu charm</item>
+        <item>Yes, especially if you’re okay with something more cute/comedy than heavy drama.</item>
+        <item>Yes — especially if you like travel, slice-of-life, or creativity-inspiration themes.</item>
+        <item>enjoyable to watch, but not outstanding.</item>
+    </string-array>
+
+    <string-array name="self_rating_data">
+        <item>9.9</item>
+        <item>9.5</item>
+        <item>8.0</item>
+        <item>7.7</item>
+        <item>9.9</item>
+        <item>9.1</item>
+        <item>9.5</item>
+        <item>9.5</item>
+        <item>7.5</item>
+        <item>7.5</item>
+    </string-array>
+
 </resources>
