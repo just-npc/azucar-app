@@ -1,15 +1,18 @@
 <resources>
     <string name="app_name">My Submission App</string>
 
-    <string name="anime_name_title">title</string>
-    <string name="genre_title">genre</string>
-    <string name="studio_title">studio</string>
-    <string name="aired_title">aired</string>
-    <string name="rating_title">rating/score</string>
-    <string name="synopsis_title">synopsis</string>
+    <string name="name_title">Title:</string>
+    <string name="genre_title">Genre:</string>
+    <string name="studio_title">Studio:</string>
+    <string name="aired_title">Aired:</string>
+    <string name="rating_title">Rating:</string>
+    <string name="synopsis_title">Synopsis:</string>
     <string name="self_review_title">self review</string>
     <string name="recommend_suggest_title">Would I recommend?:</string>
     <string name="my_rating_title">self rating:</string>
+    <string name="image_desc">ini buat bahan percobaan saja ygy, lorem ipsum dolor sit amet</string>
+    <string name="card_title">azucarrr</string>
+    <string name="item_desc">This is a short description of the item.</string>
 
     <string-array name="anime_name_data">
         <item>Princess Principal</item>
